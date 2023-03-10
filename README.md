@@ -1,6 +1,7 @@
 # Complete Your First Software Engineering Assignment
 
 ## Learning Goals
+I do not understand this things.
 
 - Understand the steps needed to complete an assignment and submit it in Canvas
 
